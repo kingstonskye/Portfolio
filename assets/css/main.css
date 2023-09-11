@@ -336,8 +336,8 @@ input, select, textarea {
 				text-align: center;
 			}
 
-			.box-style1 .icon-container{
-				
+			.box-style1 .icon-container p{
+				margin-top: 5px;
 			}
 
 			.box-style1 .icon-container h4 {
